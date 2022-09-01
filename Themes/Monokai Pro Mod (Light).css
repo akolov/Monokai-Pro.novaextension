@@ -1,7 +1,7 @@
 meta {
   -theme-interface-style: light;
   -theme-vibrancy: none;
-  -theme-accent-color: auto;
+  -theme-accent-color: true;
 }
 meta.window {
   background-color: #dee5eb;
