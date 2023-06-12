@@ -4,7 +4,7 @@ meta {
   -theme-accent-color: auto;
 }
 meta.window {
-  background-color: #f4f6f9;
+  background-color: #dee5eb;
   border-color: rgba(122, 141, 156, 0.25);
 }
 meta.titlebar {
@@ -40,7 +40,7 @@ meta.textfield.highlighted {
   border-color: rgba(122, 141, 156, 0.5);
 }
 meta.document {
-  background-color: #f4f6f9;
+  background-color: #ffffff;
   border-color: rgba(122, 141, 156, 0.25);
 }
 meta.document.button {
